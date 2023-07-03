@@ -1,0 +1,8 @@
+/*
+Para Executar:
+javac *.java
+java Mainlex programa1.gyh prog
+java Mainlex programa2.gyh prog2
+./prog2
+10  //numero inteiro
+20.5  //numero real
